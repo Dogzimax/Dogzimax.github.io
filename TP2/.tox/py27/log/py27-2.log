@@ -1,0 +1,16 @@
+actionid: py27
+msg: installpkg
+cmdargs: '/adhome/r/rl/rlambert/GL/TP2/.tox/py27/bin/python -m pip install --exists-action w /adhome/r/rl/rlambert/GL/TP2/.tox/.tmp/package/1/fizzbuzz-1.0.0.zip'
+
+DEPRECATION: Python 2.7 will reach the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 won't be maintained after that date. A future version of pip will drop support for Python 2.7.
+Processing ./.tox/.tmp/package/1/fizzbuzz-1.0.0.zip
+Building wheels for collected packages: fizzbuzz
+  Building wheel for fizzbuzz (setup.py): started
+  Building wheel for fizzbuzz (setup.py): finished with status 'done'
+  Stored in directory: /adhome/r/rl/rlambert/.cache/pip/wheels/c2/38/90/5bc3c25477729f42acd29689e5a86bc9660bd708152437a933
+Successfully built fizzbuzz
+Installing collected packages: fizzbuzz
+  Found existing installation: fizzbuzz 1.0.0
+    Not uninstalling fizzbuzz at /adhome/r/rl/rlambert/GL/TP2, outside environment /adhome/r/rl/rlambert/GL/TP2/.tox/py27
+    Can't uninstall 'fizzbuzz'. No files were found to uninstall.
+Successfully installed fizzbuzz-1.0.0
